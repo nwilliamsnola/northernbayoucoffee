@@ -1,0 +1,91 @@
+
+.navbar {
+	background-color: #dae9f4;
+	margin-bottom: -20px;
+}
+
+
+.jumbotron {
+	background-image: url('coffeeshop.jpg');
+	background-color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	height: 650px;
+	margin: 0;
+	padding: 0;
+}
+
+.jumbotron h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	text-align: left;
+	padding: 50px;
+}
+
+.mission {
+	background-color: #6D4C41;
+	color: white;
+	text-align: center;
+	padding: 50px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 36px;
+}
+
+.features {
+	padding: 50px;
+	background-color: #dae9f4;
+}
+
+.features h4 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+
+.footer {
+	background-color: #292c2f;
+	padding: 0px;
+	margin-left: -20px;
+	margin-right: -20px;
+}
+
+.googlemap {
+	padding: 50px;
+}
+
+.googlemap h4 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	color: white;
+	padding-top: 10px;
+}
+
+.contact {
+	padding-top: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px; 
+}
+
+.contact h3 {
+	color: white;
+	font-size: 36px;
+	font-family: 'Playfair Display', serif;
+}
+
+p {
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+
+.fa {
+	color: #607D8B;
+	font-size: 30px;
+	padding-left: 50px;
+}
+
+
